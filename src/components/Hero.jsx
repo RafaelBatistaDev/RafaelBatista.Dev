@@ -15,11 +15,6 @@ export default function Hero() {
           </p>
         </div>
 
-        <div className="hero-cta">
-          <button className="btn btn-primary">Download CV</button>
-          <button className="btn btn-secondary">Contato</button>
-        </div>
-
         <div className="hero-social">
           <a href="mailto:rafaelbatistadev@outlook.com" title="Email" aria-label="Email">
             <FiMail size={28} />
