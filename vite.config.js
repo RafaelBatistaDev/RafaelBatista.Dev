@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/RafaelBatista.Dev/',
+  base: './', // Isso garante que os arquivos sejam encontrados em qualquer subdiretório da Vercel
 })
