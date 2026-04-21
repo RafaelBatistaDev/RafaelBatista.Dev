@@ -1,6 +1,0 @@
-- Vite + React portfolio website with sections for about, skills, projects, blog and contact form
-- Optimized for GitHub Pages deployment
-- Modern dark theme with responsive design
-- Includes animations and smooth scrolling
-- Built with CSS3 and React Icons
-- All components are modular and customizable
