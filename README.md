@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![C# Developer](https://img.shields.io/badge/C%23-Developer-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Online-00C853?style=for-the-badge)
 
